@@ -1,0 +1,24 @@
+{
+  "name": "Homeland Mohali",
+  "location": "Kharar, Mohali",
+  "property_type": "Apartment",
+  "price": "",
+  "features": [
+    "Elegant living room with natural light",
+    "Modular kitchen with ample storage",
+    "Spacious, furnished bedrooms",
+    "Modern bathroom",
+    "Private terrace with green lawn"
+  ],
+  "cta": "Book your site visit today.",
+  "contact": "",
+  "images": [
+    "homeland_mohali/01_exterior_render.png",
+    "homeland_mohali/02_living_room.png",
+    "homeland_mohali/03_kitchen.png",
+    "homeland_mohali/05_bedroom.png",
+    "homeland_mohali/04_bathroom.png",
+    "homeland_mohali/07_terrace.png",
+    "homeland_mohali/06_master_bedroom.png"
+  ]
+}
